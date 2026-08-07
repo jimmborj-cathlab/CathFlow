@@ -1,0 +1,10 @@
+CathFlow
+│
+├── frontend
+├── backend
+├── database
+├── docker
+├── docs
+├── .github
+│   └── workflows
+└── README.md
